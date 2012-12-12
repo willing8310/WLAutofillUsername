@@ -19,6 +19,7 @@
 		CE04F4C51678273A006C711C /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE04F4C31678273A006C711C /* MainStoryboard.storyboard */; };
 		CE04F4C81678273A006C711C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE04F4C71678273A006C711C /* ViewController.m */; };
 		CE19AA2C167833CF0018F82D /* UIDevice+Username.m in Sources */ = {isa = PBXBuildFile; fileRef = CE19AA2B167833CF0018F82D /* UIDevice+Username.m */; };
+		CE19AA2F16785A4E0018F82D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CE19AA2E16785A4E0018F82D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		CE04F4C71678273A006C711C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		CE19AA2A167833CF0018F82D /* UIDevice+Username.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIDevice+Username.h"; sourceTree = "<group>"; };
 		CE19AA2B167833CF0018F82D /* UIDevice+Username.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIDevice+Username.m"; sourceTree = "<group>"; };
+		CE19AA2E16785A4E0018F82D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		CE04F49C1678273A006C711C = {
 			isa = PBXGroup;
 			children = (
+				CE19AA2E16785A4E0018F82D /* README.md */,
 				CE04F4B11678273A006C711C /* WLAutofillUsername */,
 				CE04F4AA1678273A006C711C /* Frameworks */,
 				CE04F4A81678273A006C711C /* Products */,
@@ -168,6 +171,7 @@
 				CE04F4C01678273A006C711C /* Default@2x.png in Resources */,
 				CE04F4C21678273A006C711C /* Default-568h@2x.png in Resources */,
 				CE04F4C51678273A006C711C /* MainStoryboard.storyboard in Resources */,
+				CE19AA2F16785A4E0018F82D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
